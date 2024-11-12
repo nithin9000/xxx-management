@@ -28,7 +28,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   declarations: [
     AppComponent,
     EmployeeListComponent,
-    
+
     AddEmployeeComponent,
          UpdateEmployeeComponent,
          ShowDetailsComponent,
@@ -38,7 +38,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     BrowserModule,
     AppRoutingModule,
     NgbModule,
-    HttpClientModule,FormsModule,HomeComponent, BrowserAnimationsModule , 
+    HttpClientModule,FormsModule,HomeComponent, BrowserAnimationsModule ,
     MatFormFieldModule, MatInputModule,MatFormFieldModule, MatInputModule, MatDatepickerModule,
      MatNativeDateModule
   ],
